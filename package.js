@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.addFiles([
     'drawer/dist/css/drawer.min.css',
-    'iscroll.lite/iscroll-lite.min.js',
+    'iscroll/iscroll-lite.min.js',
     'drawer/dist/js/jquery.drawer.min.js'
     ], ['client']);
 });
