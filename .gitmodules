@@ -1,3 +1,6 @@
 [submodule "drawer"]
 	path = drawer
 	url = https://github.com/blivesta/drawer.git
+[submodule "iscroll.lite"]
+	path = iscroll.lite
+	url = https://github.com/ungki/iscroll.lite
